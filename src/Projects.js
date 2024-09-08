@@ -1,11 +1,6 @@
-//import "swiper/css";
-//import { Swiper, SwiperSlide, useSwiper } from 'swiper/react'
-//import { sliderSettings } from '../../utils/common';
-//import data from '../../utils/slider.json'
-
 const Projects = () =>{
     return(
-        <>
+        <div id="project">
         <h1 className="project-heading">Projects<span className="dot">.</span></h1>
         <div className="project">
         <div className="project-item">
@@ -30,22 +25,8 @@ const Projects = () =>{
         <a href="http://google.com" className="get-in-touch">Browse Project</a>
         </div>
         </div>
-        </>
+        </div>
         
     )
 }
 export default Projects
-// const SliderButtons = () => {
-//     const swiper = useSwiper()
-//     return (
-//       <div className="flexCenter r-buttons">
-//         <button onClick={()=> swiper.slidePrev()}>
-//           &lt;
-//         </button>
-//         <button onClick={()=> swiper.slideNext()}>
-//           &gt;
-//           </button>
-//       </div>
-//     )
-//   }
-  
