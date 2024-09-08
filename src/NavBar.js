@@ -1,4 +1,6 @@
-import { HiMenu} from 'react-icons/hi'
+// import { HiMenu} from 'react-icons/hi'
+import {BiMenuAltRight} from "react-icons/bi"
+
 const NavBar = () =>{
     return(
      <nav className="navbar">
@@ -11,7 +13,7 @@ const NavBar = () =>{
          {/* <a href="/services">Services</a> */}
      </div>
      <div className="menu-btn">
-        <HiMenu size={25} />
+        <BiMenuAltRight size={30} />
         </div>
      
         </nav>
