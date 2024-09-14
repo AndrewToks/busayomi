@@ -1,0 +1,114 @@
+.home{
+    padding: 20px;
+    margin-top: 30px;
+}
+  .home .right-side{
+      float: left;
+      position: relative;
+      top: 4rem;
+  }
+  .home .right-side p{
+      font-size: 18px;
+      margin-top: 10px;
+  }
+  .home p{
+      color: #0D0C22;
+      text-align: start;
+      font-weight: 300;
+      font-size: 17px;
+  }
+  .home .right-side h1{
+      line-height: 7rem;
+      font-size: 6rem;
+  }
+  .left-side img{
+      width: 400px;
+      height:400px;
+      cursor: pointer;
+      transition: 0.4s ease-in-out;
+      border-radius:200px;
+  }
+  .left-side img:hover{
+      transition: 0.4s ease-in-out;
+      transform: scale(1);
+  }
+  .home .left-side{
+      position: relative;
+      border: 1px solid #6E06F2;
+      max-width: max-content;
+      padding: 18px;
+      top: 2rem;
+      border-radius: 240px;
+      margin: auto;
+      float: right;
+      margin-top: 30px;
+  }
+  .front{
+      color: #6E06F2;
+  }
+  .get-in-touch{
+      background:rgb(13, 12, 34);
+      color: #FCFCFD;
+      font-weight: 600;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+  .get-in-touch:hover{
+      background:#1b2430;
+      padding: 11px;
+  }
+  .home .links a{
+      text-decoration: none;
+      position: relative;
+      top: 1rem;
+      margin: 10px;
+  }
+  .browse-project{
+      background: #6E06F2;
+      padding: 10px 15px;
+      margin-bottom: 2rem;
+      border-radius: 5px;
+      margin-top: 1rem;
+      color: #fff;
+  }
+  .icon-btn{
+    position: relative;
+    top: 7px;
+  }
+  .browse-project:hover{
+      padding: 11px;
+  }
+  .dot{
+      color: #6E06F2;
+      font-size: 1.2rem;
+      background:transparent;
+  }
+  @media (max-width: 640px){
+    .home .right-side h1{
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    .home{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .home .left-side{
+        display: flex;
+        justify-self: center;
+        align-items: center;
+        margin-top: 5rem;
+        /* margin-left: -2rem; */
+    }
+    .home .left-side img{
+        max-width: 300px;
+        height: 300px;
+    }
+    .home p{
+        text-align: center;
+    }
+  }

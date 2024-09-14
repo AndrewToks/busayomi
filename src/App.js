@@ -3,6 +3,8 @@ import NavBar from "./NavBar";
 import Home from "./Home";
 import Projects from "./Projects";
 import About from "./About";
+import Contact from "./Contact";
+import Footer from "./Footer";
 // import {BrowserRouter as Router, Route, Switch} from "react-router-dom"
 
 function App(){
@@ -13,7 +15,9 @@ function App(){
           <Home />
           <Projects />
           <About />
+          <Contact />
       </div>
+      <Footer />
     </div>
   )
 }
