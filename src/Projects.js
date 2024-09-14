@@ -40,7 +40,7 @@ const Projects = () =>{
         <div className="project-item">
         <div className="project-description">
           <div className="project-img">
-        <img src="bmi.png" alt="" /></div>
+        <img src="bmi.PNG" alt="" /></div>
          <h2>BMI Calculator</h2>
         <p>This Calculator helps in the calculation of body index mass (BMI)</p>
         <a href="http://google.com" className="project-btn">Browse Project</a>
@@ -49,7 +49,7 @@ const Projects = () =>{
         <div className="project-item">
         <div className="project-description">
         <div className="project-img">
-        <img src="blog.png" alt="" /></div>
+        <img src="blog.PNG" alt="" /></div>
         <h2>News Blog</h2>
         <p>voluptatem iusto sunt, similique sapiente 
        vitae in ratione inventore fugit ...</p>
