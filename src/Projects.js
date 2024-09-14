@@ -59,7 +59,7 @@ const Projects = () =>{
         <div className="project-item">
         <div className="project-description">
         <div className="project-img">
-        <img src="blog.png" alt="" /></div>
+        <img src="blog.PNG" alt="" /></div>
         <h2>News Blog</h2>
         <p>voluptatem iusto sunt, similique sapiente 
        vitae in ratione inventore fugit ...</p>
@@ -69,7 +69,7 @@ const Projects = () =>{
         <div className="project-item">
         <div className="project-description">
         <div className="project-img">
-        <img src="blog.png" alt="" /></div>
+        <img src="blog.PNG" alt="" /></div>
         <h2>News Blog</h2>
         <p>voluptatem iusto sunt, similique sapiente 
        vitae in ratione inventore fugit ...</p>
