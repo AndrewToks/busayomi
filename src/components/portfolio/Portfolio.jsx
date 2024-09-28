@@ -26,8 +26,8 @@ const data = [
     id:3,
     title:"BMI Calculator",
     image:IMG3,
-    github:"http://github.com",
-    demo:"https://real-estate-management-ah0.pages.dev/"
+    github:"https://github.com/AndrewToks/bmi-calculator",
+    demo:"bmi-calculator-lake-one.vercel.app/"
   },
   {
     id:4,
