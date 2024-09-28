@@ -24,7 +24,7 @@ const Projects = () =>{
     return(
       <div id="project">
         <div>
-        <h1 className="orangeText">Projects</h1>
+        <h1 className="orangeText">Projects<span className="dot">.</span></h1>
         <div className="project">
         <Carousel responsive={responsive}>
         <div className="project-item">
