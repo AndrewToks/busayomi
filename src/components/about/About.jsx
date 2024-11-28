@@ -42,10 +42,12 @@ const About = () => {
         </div>
 
         <p>
-        I'm Adetokunbo Andrew also known as CODELAB.
-        As a software engineer, I design and develop robust software solutions that solve real-world problems.
-        I excel in writing clean, efficient code and collaborating with cross-functional teams to deliver high-quality applications. 
-        My passion for coding and design drives me to stay updated with the latest trends and technologies in the field.
+        I'm Adetokunbo Andrew,
+        A Frontend developer with 2 years of experience creating high-performance web applications
+        using Next.js, React, and TailwindCSS. I specialize in crafting seamless user experiences with
+        reusable code, SEO optimization, and responsive designs. I am committed to delivering scalable,
+        intuitive solutions aligned with user and business goals.
+
         </p>
 
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>

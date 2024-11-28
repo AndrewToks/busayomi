@@ -12,14 +12,14 @@ const data = [
     id:1,
     title:"Real Estate Management",
     image:IMG1,
-    github:"http://github.com",
-    demo:"https://real-estate-management-ah0.pages.dev/"
+    github:"https://github.com/AndrewToks/busayomi",
+    demo:"https://real-estate-management-gray.vercel.app/"
   },
   {
     id:2,
-    title:"Book Store",
+    title:"Finance Tracker",
     image:IMG2,
-    github:"http://github.com",
+    github:"https://github.com/AndrewToks/finance-tracker",
     demo:"https://real-estate-management-ah0.pages.dev/"
   },
   {
@@ -31,14 +31,14 @@ const data = [
   },
   {
     id:4,
-    title:"BMI Calculator",
+    title:"Todo App",
     image:IMG4,
-    github:"http://github.com",
+    github:"https://github.com/AndrewToks/todo-in-nextjs",
     demo:"https://real-estate-management-ah0.pages.dev/"
   },
   {
     id:5,
-    title:"BMI Calculator",
+    title:"Travel Guide",
     image:IMG5,
     github:"http://github.com",
     demo:"https://real-estate-management-ah0.pages.dev/"
